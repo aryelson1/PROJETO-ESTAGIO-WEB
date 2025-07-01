@@ -11,19 +11,19 @@ Este sistema tem como objetivo monitorar, controlar e gerenciar o uso e o carreg
 
 | Tela                           | Imagem                          |
 |--------------------------------|----------------------------------|
-| Tela Principal                 | ![](tela%20principal.png)       |
-| Entrada da Bateria             | ![](entrada%20bateria.png)      |
-| Saída da Bateria               | ![](saida%20da%20bateria.png)   |
-| Pronto para Carregar           | ![](pronto%20pra%20carregar.png)|
-| Modificar Carregamento         | ![](tela%20modificar%20carregamento.png) |
-| Histórico                      | ![](historico.png)              |
-| Relatório                      | ![](relatorio.png)              |
-| Impressão de Relatórios        | ![](impressão.png)              |
-| Mudança da Água da Bateria     | ![](mudança%20da%20agua.png)    |
-| Mudança de Telas               | ![](mudança%20de%20telas.png)   |
-| Listagem de Baterias           | ![](listar.png)                 |
-| Remover Bateria                | ![](remover.png)                |
-| Adicionar Nova Bateria         | ![](adicionar.png)              |
+| Tela Principal                 | ![](TelasProjetoEstagio/tela%20principal.png)       |
+| Entrada da Bateria             | ![](TelasProjetoEstagio/entrada%20bateria.png)      |
+| Saída da Bateria               | ![](TelasProjetoEstagio/saida%20da%20bateria.png)   |
+| Pronto para Carregar           | ![](TelasProjetoEstagio/pronto%20pra%20carregar.png)|
+| Modificar Carregamento         | ![](TelasProjetoEstagio/tela%20modificar%20carregamento.png) |
+| Histórico                      | ![](TelasProjetoEstagio/historico.png)              |
+| Relatório                      | ![](TelasProjetoEstagio/relatorio.png)              |
+| Impressão de Relatórios        | ![](TelasProjetoEstagio/impressão.png)              |
+| Mudança da Água da Bateria     | ![](TelasProjetoEstagio/mudança%20da%20agua.png)    |
+| Mudança de Telas               | ![](TelasProjetoEstagio/mudança%20de%20telas.png)   |
+| Listagem de Baterias           | ![](TelasProjetoEstagio/listar.png)                 |
+| Remover Bateria                | ![](TelasProjetoEstagio/remover.png)                |
+| Adicionar Nova Bateria         | ![](TelasProjetoEstagio/adicionar.png)              |
 
 ---
 
